@@ -36,14 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Assets\\Scripts\\Controller\\BotController.cs",
+              "Title": "BotController.cs",
               "DocumentMoniker": "E:\\Creator\\UnityProjects\\CSharpMainProject111\\Assets\\Scripts\\Controller\\BotController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\BotController.cs",
               "ToolTip": "E:\\Creator\\UnityProjects\\CSharpMainProject111\\Assets\\Scripts\\Controller\\BotController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Controller\\BotController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T16:03:41.106Z",
+              "WhenOpened": "2026-04-07T16:20:21.206Z",
               "EditorCaption": ""
             }
           ]

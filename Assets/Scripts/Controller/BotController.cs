@@ -6,11 +6,7 @@ using Model;
 using Model.Config;
 using UnityEngine;
 using Utilities;
-
-
-//I'm ushlepan
-//fucking shit
-
+//hello
 namespace Controller
 {
     public class BotController

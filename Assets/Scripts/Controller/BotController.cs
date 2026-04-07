@@ -7,7 +7,7 @@ using Model.Config;
 using UnityEngine;
 using Utilities;
 
-//hello
+
 //I'm ushlepan
 //fucking shit
 

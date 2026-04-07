@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:2:0:{611D0770-8D9C-765C-71B1-024EB8B05A8C}|Root.csproj|solutionrelative:assets\\scripts\\controller\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{611D0770-8D9C-765C-71B1-024EB8B05A8C}|Root.csproj|E:\\Creator\\UnityProjects\\CSharpMainProject111\\assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{611D0770-8D9C-765C-71B1-024EB8B05A8C}|Root.csproj|solutionrelative:assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:1:0:{611D0770-8D9C-765C-71B1-024EB8B05A8C}|Root.csproj|e:\\creator\\unityprojects\\csharpmainproject111\\assets\\scripts\\controller\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:1:0:{611D0770-8D9C-765C-71B1-024EB8B05A8C}|Root.csproj|solutionrelative:assets\\scripts\\controller\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -32,14 +28,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\BotController.cs",
               "ToolTip": "E:\\Creator\\UnityProjects\\CSharpMainProject111\\Assets\\Scripts\\Controller\\BotController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Controller\\BotController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T15:55:24.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Assets\\Scripts\\Controller\\BotController.cs",
               "DocumentMoniker": "E:\\Creator\\UnityProjects\\CSharpMainProject111\\Assets\\Scripts\\Controller\\BotController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\BotController.cs",
@@ -47,20 +43,8 @@
               "RelativeToolTip": "Assets\\Scripts\\Controller\\BotController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T16:01:24.769Z",
+              "WhenOpened": "2026-04-07T16:03:41.106Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnterPoint.cs",
-              "DocumentMoniker": "E:\\Creator\\UnityProjects\\CSharpMainProject111\\Assets\\Scripts\\EnterPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnterPoint.cs",
-              "ToolTip": "E:\\Creator\\UnityProjects\\CSharpMainProject111\\Assets\\Scripts\\EnterPoint.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnterPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T17:04:12.154Z"
             }
           ]
         }
